@@ -15,3 +15,11 @@ let o = {};
 //array
 let a = [1, 2, 3, 4, 5];
 console.log(a);
+//variables for storing data and for reuse
+//keyword var
+var d = b + c;
+console.log(d);
+//const
+const _example = "Gfg";
+//let $
+let $ = "Welcome";
